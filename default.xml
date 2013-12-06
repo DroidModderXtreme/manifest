@@ -309,6 +309,6 @@
   <project path="vendor/slim" name="DroidModderXtreme/vendor_slim" remote="github" revision="jb" />
   
  <project patch="device/sony/nypon" name="DroidModderXtreme/android_device_sony_nypon-1" remote="github" revision="jellybean" />
- <project path="device/sony/montblanc-common" name="XNovathor/android_device_sony_montblanc-common" remote="gh" revision="jellybean" />
- <project path="kernel/sony/u8500" name="CyanogenMod/sony-kernel-u8500" remote="gh" revision="jellybean" />
+ <project path="device/sony/montblanc-common" name="XNovathor/android_device_sony_montblanc-common" remote="github" revision="jellybean" />
+ <project path="kernel/sony/u8500" name="CyanogenMod/sony-kernel-u8500" remote="github" revision="jellybean" />
 </manifest>
